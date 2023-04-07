@@ -1,4 +1,9 @@
-## Hey 👋, I'm Raihan Miraj
+
+<h2>Hey 👋, I'm <a href="https://raihanmiraj.com/">Raihan Miraj</a></h2>
+ I am a student at Mymensingh Engineering College with a passion for music and Bike riding. I am proficient in JavaScript . In my spare time, you can often find me playing guitar and keyboard. Here is a simple portfolio that showcases some of my skills and interests. 
+<br/>
+<br/>
+
 
 <p>
 <a href="https://raihanmiraj.com"><img src="https://img.shields.io/badge/-raihanmiraj.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://raihanmiraj.com" alt="Website Badge"></a> 
@@ -7,11 +12,7 @@
  <a href="https://dev.to/raihanmiraj"><img src="https://img.shields.io/badge/-@raihanmiraj-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/raihanmiraj" alt="DevTo Badge">
 </a>
  
-
-<h2>Hey 👋, I'm <a href="https://raihanmiraj.com/">Raihan Miraj</a></h2>
- I am a student at Mymensingh Engineering College with a passion for music and Bike riding. I am proficient in JavaScript . In my spare time, you can often find me playing guitar and keyboard. Here is a simple portfolio that showcases some of my skills and interests. 
-<br/>
-<br/>
+</p>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="360px"/>
   
