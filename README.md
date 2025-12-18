@@ -13,7 +13,7 @@
 
 ## 🚀 Professional Summary
 
-Ambitious Full Stack Developer with 2+ years professional experience specializing in **Laravel** and **MERN** stack development. Proven expertise in:
+Ambitious Full Stack Developer with 4+ years professional experience specializing in **Laravel** and **MERN** stack development. Proven expertise in:
 - Building scalable web applications and multi-service platforms
 - Third-party API integration (Amadeus, DHL, Stripe, etc.)
 - E-commerce solutions and cargo management systems
