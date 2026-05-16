@@ -1,108 +1,171 @@
-# Raihan Islam Miraj 
-### Full Stack Developer (MERN & Laravel Specialist)
+<h1 align="center">Raihan Islam Miraj</h1>
+<h3 align="center">Full Stack Developer · Laravel · MERN · Next.js · AI/SaaS</h3>
 
-[![Email](https://img.shields.io/badge/Email-rsnmiraj%40gmail.com-D14836?logo=gmail)](mailto:rsnmiraj@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone/%20WhatsApp-%2B8801797482479-25D366?logo=whatsapp)](tel:+8801797482479)
-[![Location](https://img.shields.io/badge/Location-Laksam%2C%20Cumilla%2C%20Bangladesh-5865F2?logo=googlemaps)]()
+<p align="center">
+  <a href="mailto:rsnmiraj@gmail.com"><img src="https://img.shields.io/badge/Email-rsnmiraj%40gmail.com-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/8801797482479"><img src="https://img.shields.io/badge/WhatsApp-%2B8801797482479-25D366?logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raihanmiraj/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/raihanmiraj"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white" /></a>
+  <a href="https://raihanmiraj.github.io"><img src="https://img.shields.io/badge/Portfolio-View%20Work-000000?logo=googlechrome&logoColor=white" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/raihanmiraj/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/raihanmiraj)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/raihanmiraj)
-
----
-
-## 🚀 Professional Summary
-
-Ambitious Full Stack Developer with 4+ years professional experience specializing in **Laravel** and **MERN** stack development. Proven expertise in:
-- Building scalable web applications and multi-service platforms
-- Third-party API integration (Amadeus, DHL, Stripe, etc.)
-- E-commerce solutions and cargo management systems
-- RESTful API design and complex data workflows
-
-Passionate about developing innovative solutions with strong ownership mentality and continuous learning approach.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Laksam%2C%20Bangladesh-5865F2?logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f" />
+  <img src="https://img.shields.io/badge/SaaS%20Shipped%20in%202026-5%20Products-7c3aed" />
+</p>
 
 ---
 
-## 💻 Technical Expertise
+## About Me
+
+Full Stack Developer with **5+ years of experience** building production-grade web applications, AI-powered SaaS platforms, and large-scale e-commerce systems. Shipped **5 SaaS products in 2026** using OpenAI APIs, Next.js, Node.js, and PostgreSQL. Passionate about clean architecture, developer experience, and shipping things that matter.
+
+- 🔭 Currently building at **[NexiByLLC](https://nexiby.com)** — Dhaka, Bangladesh
+- 🤖 Working extensively with **OpenAI APIs**, **LangChain**, **Whisper**, and **local LLMs via Ollama**
+- ⚡ Expert in **Redis** and **BullMQ** for background jobs and queue-driven architectures
+- 🎓 B.Sc. CSE — Mymensingh Engineering College · CGPA 3.65/4.00
+
+---
+
+## Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-Expert-61DAFB?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Expert-06B6D4?logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-7952B3?logo=bootstrap)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-Expert-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Expert-06B6D4?logo=tailwindcss&logoColor=white)
 
 ### Backend
-![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?logo=php)
-![Node.js](https://img.shields.io/badge/Node.js-Proficient-339933?logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-Proficient-000000?logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-Expert-000000?logo=express&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-Expert-4479A1?logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?logo=mongodb)
+### Databases & Queues
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Expert-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Expert-DC382D?logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-Expert-FF2D20)
 
-### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-Expert-181717?logo=github)
-![Figma](https://img.shields.io/badge/Figma-Proficient-F24E1E?logo=figma)
-![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?logo=firebase)
+### AI & Integrations
+![OpenAI](https://img.shields.io/badge/OpenAI_API-Proficient-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Proficient-1C3C3C)
+![Ollama](https://img.shields.io/badge/Ollama_(Local_LLMs)-Proficient-000000)
+![Stripe](https://img.shields.io/badge/Stripe-Proficient-635BFF?logo=stripe&logoColor=white)
 
 ---
 
-## 🏆 Professional Experience
+## Experience
 
-### **Junior Software Engineer** @ [Asian Group Italy](https://asiangroupitaly.com/) | Remote
-_Apr 2023 - Jul 2025_
+### Full Stack Developer — [NexiByLLC](https://nexiby.com)
+**Dhaka, Bangladesh · Onsite · September 2025 – Present**
 
-- Developed client-facing platforms including **e-commerce stores**, **travel agency portals**, and **cargo service systems** using Laravel/React
-- Integrated 10+ third-party APIs including Amadeus, Flight.io, DHL, and Stripe payment systems
+- Shipped **5 SaaS products** across AI, link management, SEO monitoring, e-commerce, and marketplace verticals
+- Built multi-tenant SaaS platforms with subdomain isolation, RBAC, and Stripe subscription billing
+- Integrated **OpenAI APIs + LangChain** for AI article drafting, semantic search, auto-tagging, and contextual chatbots
+- Implemented **OpenAI Whisper** for automated video transcription inside a browser-based recording system
+- Designed **BullMQ + Redis** powered job queues for daily monitoring, alerts, and background processing
+- Used **Typesense / Elasticsearch** for high-performance semantic search across multi-tenant knowledge bases
+
+---
+
+### Junior Software Engineer — [Asian Group Italy](https://asiangroupitaly.com/)
+**Remote · April 2023 – August 2025**
+
+- Developed e-commerce stores, travel agency portals, and cargo service systems using Laravel and React
+- Integrated 10+ third-party APIs including **Amadeus, Flight.io, DHL, and Stripe**
 - Designed RESTful APIs and managed complex data workflows for 100k+ transaction systems
-- Led development of cargo management services with dynamic pricing algorithms
-- Implemented responsive UIs using Tailwind CSS and modern React components
-- Collaborated with UI/UX teams to enhance user experience across platforms
+- Built dynamic pricing algorithms for cargo management and implemented responsive UIs with Tailwind CSS
 
 ---
 
-## 🎓 Education
-**B.Sc. Computer Science and Engineering**  
-Mymensingh Engineering College, Bangladesh  
-_2019 - Present (8th Semester Completed)_  
-**CGPA:** 3.65/4.00 (1st-7th Semester Average)
+## Featured Projects (2025–2026)
+
+### 🧠 [Kbixy](https://kbixy.com) — AI-Powered Knowledge Base SaaS
+> Multi-tenant AI-native knowledge base platform with branded subdomains
+
+- OpenAI + LangChain for AI drafting, semantic search, auto-tagging, summarization, and contextual chatbot
+- In-browser screen/camera recording with automated Whisper transcription and searchable video content
+- Notion-style rich text editor with real-time AI assistance and version control
+- Full SaaS stack: Stripe billing, AI credit system, multi-tenant isolation, RBAC, team management
+- **Stack:** Next.js · Node.js · PostgreSQL · Typesense · Redis · OpenAI · LangChain · Stripe
 
 ---
 
-## 💻 Featured Projects
+### 🔗 [Lupofy](https://lupofy.com) — Smart Link Management & Branded URL Shortener SaaS
+> Modern branded link shortening platform with generous free tier and custom domain support
 
-### **Cargo Management System** (Laravel/React)
-- Integrated DHL APIs with dynamic pricing models
-- Developed shipment tracking and management workflows
-- Implemented payment processing via Stripe integration
-
-### **Travel Agency Platform** (MERN Stack)
-- Integrated Amadeus and Flight.io APIs for real-time booking
-- Built admin dashboard with analytics and reporting
-- Developed responsive UI with React and Tailwind CSS
-
-### **University Projects**
-| Project | Technologies | Key Features |
-|---------|--------------|-------------|
-| **Meal Management System** | PHP/MySQL | Real-time status updates, Admin dashboard |
-| **Quiz Platform** | JavaScript/Node.js | Dynamic scoring, Answer locking |
-| **Vote Online** | Biometric Systems | Secure voting system |
+- AI-powered slug suggestions, metadata extraction, and title/description/image preview via OpenAI APIs
+- Custom slug/back-half URLs, link quota enforcement, analytics dashboard, and fast redirect engine
+- **Stack:** Next.js · React · Node.js · Tailwind CSS · PostgreSQL · Stripe · OpenAI
 
 ---
 
-## 📈 GitHub Activity
+### 📊 [Webwatchly](https://webwatchly.com) — AI-Driven SEO Change Monitoring SaaS
+> Intelligent SEO monitoring tool used by 500+ businesses
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raihanmiraj&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/raihanmiraj)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanmiraj&layout=compact&theme=radical&langs_count=8)](https://github.com/raihanmiraj)
+- OpenAI-powered explanation engine for plain-English analysis of SEO changes with actionable recommendations
+- Google Search Console API integration to correlate changes with performance drops in clicks and rankings
+- Daily monitoring with smart severity classification, before/after diff tracking, and real-time alerts
+- **Stack:** Next.js · Node.js · PostgreSQL · BullMQ · Redis · OpenAI · Google Search Console API
 
 ---
 
-## 🌐 Connect With Me
+### 🚗 [LeaseLocals](https://leaselocals.com) — Marketplace Subscription SaaS for Car Leasing
+> Subscription-based marketplace platform for car lease listings
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-%23000000?logo=googlechrome)](https://raihanmiraj.github.io)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?logo=facebook)](https://www.facebook.com/raihan.miraj.official/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube)](https://www.youtube.com/@raihanmiraj)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram)](https://www.instagram.com/raihan_miraj/)
+- **Stack:** Next.js · Node.js · PostgreSQL · Stripe
 
-> **Let's collaborate:** Open to full-time positions, contract work, and innovative projects
+---
+
+### 🛍️ [Fabtrixbd](https://fabtrixbd.com) — Laravel E-commerce Platform
+> Full-featured e-commerce store built with Laravel and Inertia.js
+
+- **Stack:** Laravel · Inertia.js · MySQL · Vue.js
+
+---
+
+### Cargo Management System (Asian Group Italy)
+- DHL API integration with dynamic pricing models and shipment tracking workflows
+- Stripe payment processing and full order lifecycle management
+- **Stack:** Laravel · React · MySQL · Stripe · DHL API
+
+### Travel Agency Platform (Asian Group Italy)
+- Amadeus and Flight.io API integration for real-time flight booking
+- Admin dashboard with analytics, reporting, and responsive UI
+- **Stack:** MERN Stack · Tailwind CSS · Amadeus API
+
+---
+
+## University Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| Meal Management System | PHP · MySQL | Real-time status updates, admin dashboard |
+| Quiz Platform | JavaScript · Node.js | Dynamic scoring, answer locking |
+| Vote Online | PHP · Biometric | Secure biometric voting system |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raihanmiraj&show_icons=true&theme=radical&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanmiraj&layout=compact&theme=radical&langs_count=8" height="165" />
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/raihanmiraj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/raihanmiraj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://www.facebook.com/raihan.miraj.official/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/raihan_miraj/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@raihanmiraj"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
+</p>
+
+> Open to full-time roles, contract work, and interesting SaaS projects. Let's build something great.
