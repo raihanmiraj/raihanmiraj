@@ -83,7 +83,7 @@ Full Stack Developer with **5+ years of experience** building production-grade w
 
 ## Featured Projects (2025–2026)
 
-### 🧠 [Kbixy](https://kbixy.com) — AI-Powered Knowledge Base SaaS
+### 🧠 [Kbixy]— AI-Powered Knowledge Base SaaS
 > Multi-tenant AI-native knowledge base platform with branded subdomains
 
 - OpenAI + LangChain for AI drafting, semantic search, auto-tagging, summarization, and contextual chatbot
@@ -103,7 +103,7 @@ Full Stack Developer with **5+ years of experience** building production-grade w
 
 ---
 
-### 📊 [Webwatchly](https://webwatchly.com) — AI-Driven SEO Change Monitoring SaaS
+### 📊 [Webwatchly] — AI-Driven SEO Change Monitoring SaaS
 > Intelligent SEO monitoring tool used by 500+ businesses
 
 - OpenAI-powered explanation engine for plain-English analysis of SEO changes with actionable recommendations
