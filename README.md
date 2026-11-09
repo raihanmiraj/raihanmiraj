@@ -94,7 +94,7 @@ Full Stack Developer with **5+ years of experience** building production-grade w
 
 ---
 
-### 🔗 [Lupofy](https://lupofy.com) — Smart Link Management & Branded URL Shortener SaaS
+###  Smart Link Management & Branded URL Shortener SaaS
 > Modern branded link shortening platform with generous free tier and custom domain support
 
 - AI-powered slug suggestions, metadata extraction, and title/description/image preview via OpenAI APIs
